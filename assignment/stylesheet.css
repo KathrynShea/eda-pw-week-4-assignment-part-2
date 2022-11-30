@@ -1,15 +1,29 @@
 body{
-background-color: bisque;
+background-color: rgb(161, 158, 154);
 }
 header{
-    background-color: aquamarine;
+    background-color: rgb(202, 196, 186);
+    border-radius: 5px;
+    padding-left: 5px;
 }
 div{
     background-color: rgb(46, 44, 44);
     border: solid;
-    border-radius: 25%;
+    border-width: 5px;
+    border-radius: 15%;
+    border-style: ridge (202, 196, 186);
     text-align: center;
+    color: grey;
+    text-shadow: 2px 2px black;
+    font-family: "Lucinda Console";
+    max-width: 700px;
+    min-width: 450px;
+
     
+}
+h2{
+
+
 }
 img{
     display: block;
